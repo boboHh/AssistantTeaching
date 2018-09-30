@@ -1,0 +1,2 @@
+# AssistantTeaching
+基于软件工程课程开发的一个辅助教学系统
